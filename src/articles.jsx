@@ -1,5 +1,8 @@
 
 
+
+
+
 function ArticlesMain() {
     return (
         <>
@@ -7,7 +10,7 @@ function ArticlesMain() {
 
                 <main>
                     <article>
-                        <img src="src/images/c-d-x-unsplash.jpg" />
+                        <img src="public/images/c-d-x-unsplash.jpg" alt="headphones" />
                         <h3>The best headphones of this year</h3>
                         <p> Although earbuds are all the rage these days, true audiophiles know that nothing can beat a nice pair of headphones. TekNews has reviewed all of the latest headphones and we are here to give you our thoughts. What we have found may surprise you!</p>
                         <aside>
@@ -16,7 +19,7 @@ function ArticlesMain() {
                     </article>
 
                     <article>
-                        <img src="src/images/c-d-x-unsplash.jpg" />
+                        <img src="public/images/domenico-loia-unsplash.jpg" alt="laptop" />
                         <h3>The perfect work-from-home setup</h3>
                         <p>
                             Is your work-from-home setup making you feel blue? If working from
@@ -29,7 +32,7 @@ function ArticlesMain() {
                         </aside>
                     </article>
                     <article>
-                        <img src="src/images/gilles-lambert-unsplash.jpg" />
+                        <img src="public/images/gilles-lambert-unsplash.jpg" alt="phone in hand" />
                         <h3>What exactly is the dark web?</h3>
                         <p>
                             It seems like everyone has an opinion on the `dark web` these days.
@@ -42,7 +45,7 @@ function ArticlesMain() {
                         </aside>
                     </article>
                     <article>
-                        <img src="src/images/j-kelly-brito-unsplash.jpg" />
+                        <img src="public/images/j-kelly-brito-unsplash.jpg" alt="notebook" />
                         <h3>Learning to code</h3>
                         <p>
                             If you are just getting started on your coding journey, you may be
